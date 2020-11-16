@@ -1,0 +1,32 @@
+header {
+    text-align: center;
+    line-height: 60px;
+    background-color: aqua;
+    background-size: cover;
+    height: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin: 1% 2%;
+}
+header h1 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 400%;
+}
+.contains {
+    display: block;
+    margin: 1% 2%;
+}
+.contains input {
+    display: block;
+    text-align: center;
+    font-size: 200%;
+    width: 30%;
+    margin-left: 35%;
+}
+.contains input:hover {
+    background-color: greenyellow;
+    color: rgb(253,253,253);
+    border-radius: 10px;
+    text-decoration: none;
+}
